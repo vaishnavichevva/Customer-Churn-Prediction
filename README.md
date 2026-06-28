@@ -25,7 +25,7 @@ The dataset contains customer information such as demographics, account details,
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/customer-churn-prediction.git
+   git clone https://github.com/vaishnavichevva/customer-churn-prediction.git
    ```
 2. Navigate to the project folder:
    ```bash
